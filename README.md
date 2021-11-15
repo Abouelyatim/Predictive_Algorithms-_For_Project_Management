@@ -1,1 +1,2 @@
 # TP-Master-MTP-GL-IA4GL
+The objective of this lab is to show an example of the use of artificial intelligence in the field of software engineering. We will use supervised learning to predict experienced developers in an industrial project available on GitHub. We will also create a simple predictor of the number of experienced developers compared to the size of the project. The data we will be using are software metrics.
